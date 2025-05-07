@@ -1,7 +1,4 @@
 // KV service based on Raft - main implementation file.
-//
-// Eli Bendersky [https://eli.thegreenplace.net]
-// This code is in the public domain.
 package kvservice
 
 import (

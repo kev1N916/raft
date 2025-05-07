@@ -4,8 +4,6 @@
 // KVService) in isolation; rather, the test harness constructs a complete
 // system comprising of a cluster of services and some KVClients to exercise it.
 //
-// Eli Bendersky [https://eli.thegreenplace.net]
-// This code is in the public domain.
 package main
 
 import (
